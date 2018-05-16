@@ -1,0 +1,6 @@
+c:\users\chudy\documents\visual studio 2015\Projects\SimpleLogger\SimpleLogger\bin\Debug\SimpleLogger.exe.config
+c:\users\chudy\documents\visual studio 2015\Projects\SimpleLogger\SimpleLogger\bin\Debug\SimpleLogger.exe
+c:\users\chudy\documents\visual studio 2015\Projects\SimpleLogger\SimpleLogger\bin\Debug\SimpleLogger.pdb
+c:\users\chudy\documents\visual studio 2015\Projects\SimpleLogger\SimpleLogger\obj\Debug\SimpleLogger.csprojResolveAssemblyReference.cache
+c:\users\chudy\documents\visual studio 2015\Projects\SimpleLogger\SimpleLogger\obj\Debug\SimpleLogger.exe
+c:\users\chudy\documents\visual studio 2015\Projects\SimpleLogger\SimpleLogger\obj\Debug\SimpleLogger.pdb
